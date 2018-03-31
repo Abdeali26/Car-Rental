@@ -1,0 +1,8 @@
+beautifulsoup4==4.6.0
+Django==1.11.7
+django-filter==1.1.0
+djangorestframework==3.7.3
+Markdown==2.6.9
+pytz==2017.3
+selenium==3.7.0
+django-selenium-login==1.0.2
